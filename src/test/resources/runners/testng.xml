@@ -7,7 +7,19 @@
     <test verbose="2" preserve-order="true" name="LoginTest">
         <classes>
             <class name="com.demo.testcases.LoginTest">
-                </class>
+            </class>
         </classes>
     </test>
+    <test verbose="2" preserve-order="true" name="AddCustomerTest">
+        <classes>
+            <class name="com.demo.testcases.AddCustomerTest">
+            </class>
+        </classes>
+    </test>
+<test verbose="2" preserve-order="true" name="OpenAccountTest">
+<classes>
+    <class name="com.demo.testcases.OpenAccountTest">
+    </class>
+</classes>
+</test>
 </suite>
